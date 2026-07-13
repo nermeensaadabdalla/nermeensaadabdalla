@@ -11,7 +11,6 @@ Computer Science graduate and ITI Data Engineering graduate passionate about des
 - 🎓 B.Sc. in Computer Science – Damietta University
 - 🎓 ITI Data Engineering Graduate
 - ☁️ Interested in Cloud Data Engineering
-- 🌱 Currently learning Terraform and AWS
 - 📊 Passionate about Data Engineering, ETL, and Analytics
 
 ---
